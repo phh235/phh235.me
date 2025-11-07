@@ -1,6 +1,6 @@
 # [phh235.me](https://phh235.me)
 
-A minimal, pixel-perfect dev portfolio, component registry, and blog to showcase my work as a Design Engineer.
+A minimal, pixel-perfect dev portfolio, component registry, and blog to showcase my work as a Frontend Developer.
 
 Check out the live site: [phh235.me](https://phh235.me)
 
@@ -56,10 +56,6 @@ Licensed under the [MIT license](./LICENSE).
 
 You're free to use my code! Just make sure to <ins>remove all my personal information</ins> before publishing your website. It's awesome to see my code being useful to someone!
 
-## Star History
-
-[![Star History](https://starchart.cc/ncdai/phh235.me.svg?variant=adaptive)](https://starchart.cc/ncdai/phh235.me)
-
 ## Acknowledgments
 
 - [React](https://react.dev)
@@ -72,5 +68,3 @@ You're free to use my code! Just make sure to <ins>remove all my personal inform
 - [Lucide](https://lucide.dev)
 - [Fumadocs](https://fumadocs.dev)
 - And many other open-source libraries used in `package.json`
-
-<!-- GitAds-Verify: QICCAB4PFWV9MHUGPGPN5B2I8SAXLAOK -->
